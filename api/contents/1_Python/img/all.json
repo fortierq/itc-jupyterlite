@@ -2,33 +2,33 @@
   "content": [
     {
       "content": null,
-      "created": "2021-11-22T14:00:41.322596Z",
+      "created": "2021-11-22T15:25:15.484222Z",
       "format": null,
-      "last_modified": "2021-11-22T14:00:23.678392Z",
+      "last_modified": "2021-11-22T15:24:52.112164Z",
       "mimetype": "image/png",
       "name": "aide.png",
       "path": "1_Python/img/aide.png",
-      "size": 73799,
+      "size": 52270,
       "type": "file",
       "writable": true
     },
     {
       "content": null,
-      "created": "2021-11-22T14:00:41.322596Z",
+      "created": "2021-11-22T15:25:15.484222Z",
       "format": null,
-      "last_modified": "2021-11-22T14:00:23.678392Z",
+      "last_modified": "2021-11-22T15:24:52.112164Z",
       "mimetype": "image/png",
       "name": "completion.png",
       "path": "1_Python/img/completion.png",
-      "size": 16820,
+      "size": 11442,
       "type": "file",
       "writable": true
     },
     {
       "content": null,
-      "created": "2021-11-22T14:00:41.322596Z",
+      "created": "2021-11-22T15:25:15.488222Z",
       "format": null,
-      "last_modified": "2021-11-22T14:00:23.678392Z",
+      "last_modified": "2021-11-22T15:24:52.112164Z",
       "mimetype": "image/png",
       "name": "stop.png",
       "path": "1_Python/img/stop.png",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2021-11-22T14:00:41.322596Z",
+  "created": "2021-11-22T15:25:15.484222Z",
   "format": "json",
-  "last_modified": "2021-11-22T14:00:41.322596Z",
+  "last_modified": "2021-11-22T15:25:15.484222Z",
   "mimetype": null,
   "name": "img",
   "path": "1_Python/img",
