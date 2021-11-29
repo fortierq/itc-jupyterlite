@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-11-24T09:48:49.198607Z",
+      "created": "2021-11-29T15:39:29.205031Z",
       "format": null,
-      "last_modified": "2021-11-24T09:48:24.090911Z",
+      "last_modified": "2021-11-29T15:39:04.612894Z",
       "mimetype": null,
       "name": "2_boucles_imbriquees.ipynb",
       "path": "2_tp_semestre1/2_boucles_imbriquees.ipynb",
@@ -14,9 +14,21 @@
     },
     {
       "content": null,
-      "created": "2021-11-24T09:48:49.198607Z",
+      "created": "2021-11-29T15:39:29.205031Z",
       "format": null,
-      "last_modified": "2021-11-24T09:48:24.090911Z",
+      "last_modified": "2021-11-29T15:39:04.612894Z",
+      "mimetype": null,
+      "name": "4_dichotomie.ipynb",
+      "path": "2_tp_semestre1/4_dichotomie.ipynb",
+      "size": 9089,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-29T15:39:29.205031Z",
+      "format": null,
+      "last_modified": "2021-11-29T15:39:04.612894Z",
       "mimetype": null,
       "name": "1_dictionnaire.ipynb",
       "path": "2_tp_semestre1/1_dictionnaire.ipynb",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2021-11-24T09:48:49.198607Z",
+      "created": "2021-11-29T15:39:29.205031Z",
       "format": null,
-      "last_modified": "2021-11-24T09:48:24.090911Z",
+      "last_modified": "2021-11-29T15:39:04.612894Z",
       "mimetype": null,
       "name": "3_module.ipynb",
       "path": "2_tp_semestre1/3_module.ipynb",
@@ -37,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2021-11-24T09:48:49.198607Z",
+  "created": "2021-11-29T15:39:29.205031Z",
   "format": "json",
-  "last_modified": "2021-11-24T09:48:49.198607Z",
+  "last_modified": "2021-11-29T15:39:29.205031Z",
   "mimetype": null,
   "name": "2_tp_semestre1",
   "path": "2_tp_semestre1",
