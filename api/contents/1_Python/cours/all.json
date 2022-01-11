@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-01-05T10:59:53.850092Z",
+      "created": "2022-01-11T19:44:19.166555Z",
       "format": null,
-      "last_modified": "2022-01-05T10:59:33.886069Z",
+      "last_modified": "2022-01-11T19:44:00.802212Z",
       "mimetype": "application/pdf",
       "name": "resume_python.pdf",
       "path": "1_Python/cours/resume_python.pdf",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-01-05T10:59:53.846092Z",
+      "created": "2022-01-11T19:44:19.162555Z",
       "format": null,
-      "last_modified": "2022-01-05T10:59:33.882069Z",
+      "last_modified": "2022-01-11T19:44:00.802212Z",
       "mimetype": null,
       "name": "2_conditions.ipynb",
       "path": "1_Python/cours/2_conditions.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-01-05T10:59:53.846092Z",
+      "created": "2022-01-11T19:44:19.162555Z",
       "format": null,
-      "last_modified": "2022-01-05T10:59:33.882069Z",
+      "last_modified": "2022-01-11T19:44:00.802212Z",
       "mimetype": null,
       "name": "0_variables.ipynb",
       "path": "1_Python/cours/0_variables.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-01-05T10:59:53.846092Z",
+      "created": "2022-01-11T19:44:19.162555Z",
       "format": null,
-      "last_modified": "2022-01-05T10:59:33.882069Z",
+      "last_modified": "2022-01-11T19:44:00.802212Z",
       "mimetype": null,
       "name": "1_fonctions.ipynb",
       "path": "1_Python/cours/1_fonctions.ipynb",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-01-05T10:59:53.850092Z",
+      "created": "2022-01-11T19:44:19.166555Z",
       "format": null,
-      "last_modified": "2022-01-05T10:59:33.886069Z",
+      "last_modified": "2022-01-11T19:44:00.802212Z",
       "mimetype": "application/pdf",
       "name": "python.pdf",
       "path": "1_Python/cours/python.pdf",
@@ -62,9 +62,9 @@
     },
     {
       "content": null,
-      "created": "2022-01-05T10:59:53.846092Z",
+      "created": "2022-01-11T19:44:19.162555Z",
       "format": null,
-      "last_modified": "2022-01-05T10:59:33.882069Z",
+      "last_modified": "2022-01-11T19:44:00.802212Z",
       "mimetype": null,
       "name": "3_boucles.ipynb",
       "path": "1_Python/cours/3_boucles.ipynb",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2022-01-05T10:59:53.850092Z",
+  "created": "2022-01-11T19:44:19.166555Z",
   "format": "json",
-  "last_modified": "2022-01-05T10:59:53.850092Z",
+  "last_modified": "2022-01-11T19:44:19.166555Z",
   "mimetype": null,
   "name": "cours",
   "path": "1_Python/cours",
