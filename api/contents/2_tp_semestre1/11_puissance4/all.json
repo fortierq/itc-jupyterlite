@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-01-31T17:24:12.890241Z",
+      "format": null,
+      "last_modified": "2022-01-31T17:23:50.294066Z",
+      "mimetype": "application/pdf",
+      "name": "puissance4.pdf",
+      "path": "2_tp_semestre1/11_puissance4/puissance4.pdf",
+      "size": 100256,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-01-31T17:24:12.890241Z",
+  "format": "json",
+  "last_modified": "2022-01-31T17:24:12.890241Z",
+  "mimetype": null,
+  "name": "11_puissance4",
+  "path": "2_tp_semestre1/11_puissance4",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
