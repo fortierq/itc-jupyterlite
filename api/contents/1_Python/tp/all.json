@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-01-31T17:53:49.768593Z",
+      "created": "2022-01-31T18:00:02.021530Z",
       "format": null,
-      "last_modified": "2022-01-31T17:53:49.768593Z",
+      "last_modified": "2022-01-31T18:00:02.021530Z",
       "mimetype": null,
       "name": "ensembles",
       "path": "1_Python/tp/ensembles",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-01-31T17:53:49.772593Z",
+      "created": "2022-01-31T18:00:02.025530Z",
       "format": null,
-      "last_modified": "2022-01-31T17:53:49.772593Z",
+      "last_modified": "2022-01-31T18:00:02.025530Z",
       "mimetype": null,
       "name": "premiers",
       "path": "1_Python/tp/premiers",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-01-31T17:53:49.768593Z",
+  "created": "2022-01-31T18:00:02.021530Z",
   "format": "json",
-  "last_modified": "2022-01-31T17:53:49.768593Z",
+  "last_modified": "2022-01-31T18:00:02.021530Z",
   "mimetype": null,
   "name": "tp",
   "path": "1_Python/tp",
