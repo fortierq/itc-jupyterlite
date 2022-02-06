@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-06T18:17:52.843374Z",
+      "created": "2022-02-06T18:21:07.181108Z",
       "format": null,
-      "last_modified": "2022-02-06T18:17:52.843374Z",
+      "last_modified": "2022-02-06T18:21:07.181108Z",
       "mimetype": null,
       "name": "1_Python",
       "path": "1_Python",
@@ -14,9 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-02-06T18:17:52.875374Z",
+      "created": "2022-02-06T18:21:07.217109Z",
       "format": null,
-      "last_modified": "2022-02-06T18:17:52.875374Z",
+      "last_modified": "2022-02-06T18:21:07.217109Z",
+      "mimetype": null,
+      "name": "3_algorithm_analysis",
+      "path": "3_algorithm_analysis",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-02-06T18:21:07.213109Z",
+      "format": null,
+      "last_modified": "2022-02-06T18:21:07.213109Z",
       "mimetype": null,
       "name": "2_tp_semestre1",
       "path": "2_tp_semestre1",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-06T18:17:52.831373Z",
+      "created": "2022-02-06T18:21:07.157106Z",
       "format": null,
-      "last_modified": "2022-02-06T18:17:52.831373Z",
+      "last_modified": "2022-02-06T18:21:07.157106Z",
       "mimetype": null,
       "name": "0_intro",
       "path": "0_intro",
@@ -37,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-06T18:17:52.851374Z",
+  "created": "2022-02-06T18:21:07.217109Z",
   "format": "json",
-  "last_modified": "2022-02-06T18:17:52.851374Z",
+  "last_modified": "2022-02-06T18:21:07.217109Z",
   "mimetype": null,
   "name": "",
   "path": "",

@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-02-06T18:21:07.217109Z",
+      "format": null,
+      "last_modified": "2022-02-06T18:20:44.128092Z",
+      "mimetype": "application/pdf",
+      "name": "complexite.pdf",
+      "path": "3_algorithm_analysis/1_complexity/slides/complexite.pdf",
+      "size": 174195,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-02-06T18:21:07.217109Z",
+  "format": "json",
+  "last_modified": "2022-02-06T18:21:07.217109Z",
+  "mimetype": null,
+  "name": "slides",
+  "path": "3_algorithm_analysis/1_complexity/slides",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
