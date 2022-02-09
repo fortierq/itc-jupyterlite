@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-09T13:24:52.678927Z",
+      "created": "2022-02-09T13:30:02.812649Z",
       "format": null,
-      "last_modified": "2022-02-09T13:24:52.678927Z",
+      "last_modified": "2022-02-09T13:30:02.812649Z",
       "mimetype": null,
       "name": "1_Python",
       "path": "1_Python",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-09T13:24:52.710927Z",
+      "created": "2022-02-09T13:30:02.844649Z",
       "format": null,
-      "last_modified": "2022-02-09T13:24:52.710927Z",
+      "last_modified": "2022-02-09T13:30:02.844649Z",
       "mimetype": null,
       "name": "3_algorithm_analysis",
       "path": "3_algorithm_analysis",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-09T13:24:52.710927Z",
+      "created": "2022-02-09T13:30:02.840649Z",
       "format": null,
-      "last_modified": "2022-02-09T13:24:52.710927Z",
+      "last_modified": "2022-02-09T13:30:02.840649Z",
       "mimetype": null,
       "name": "2_tp_semestre1",
       "path": "2_tp_semestre1",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-09T13:24:52.666927Z",
+      "created": "2022-02-09T13:30:02.800648Z",
       "format": null,
-      "last_modified": "2022-02-09T13:24:52.666927Z",
+      "last_modified": "2022-02-09T13:30:02.800648Z",
       "mimetype": null,
       "name": "0_intro",
       "path": "0_intro",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-09T13:24:52.710927Z",
+  "created": "2022-02-09T13:30:02.844649Z",
   "format": "json",
-  "last_modified": "2022-02-09T13:24:52.710927Z",
+  "last_modified": "2022-02-09T13:30:02.844649Z",
   "mimetype": null,
   "name": "",
   "path": "",
