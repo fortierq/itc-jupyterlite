@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-09T13:22:04.993729Z",
+      "created": "2022-02-09T13:23:10.745256Z",
       "format": null,
-      "last_modified": "2022-02-09T13:22:04.993729Z",
+      "last_modified": "2022-02-09T13:23:10.745256Z",
       "mimetype": null,
       "name": "img",
       "path": "0_intro/img",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-09T13:22:04.985729Z",
+      "created": "2022-02-09T13:23:10.737256Z",
       "format": null,
-      "last_modified": "2022-02-09T13:21:46.857521Z",
+      "last_modified": "2022-02-09T13:22:45.685092Z",
       "mimetype": null,
       "name": "0_jupyter.ipynb",
       "path": "0_intro/0_jupyter.ipynb",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-09T13:22:04.985729Z",
+  "created": "2022-02-09T13:23:10.737256Z",
   "format": "json",
-  "last_modified": "2022-02-09T13:22:04.985729Z",
+  "last_modified": "2022-02-09T13:23:10.737256Z",
   "mimetype": null,
   "name": "0_intro",
   "path": "0_intro",
