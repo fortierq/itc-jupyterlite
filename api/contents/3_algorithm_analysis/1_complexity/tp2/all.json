@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-15T21:13:09.980323Z",
+      "created": "2022-02-15T21:14:33.608499Z",
       "format": null,
-      "last_modified": "2022-02-15T21:12:45.552339Z",
+      "last_modified": "2022-02-15T21:14:11.452461Z",
       "mimetype": null,
       "name": "tp_complexity2.ipynb",
       "path": "3_algorithm_analysis/1_complexity/tp2/tp_complexity2.ipynb",
-      "size": 9591,
+      "size": 9593,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-02-15T21:13:09.980323Z",
+  "created": "2022-02-15T21:14:33.608499Z",
   "format": "json",
-  "last_modified": "2022-02-15T21:13:09.980323Z",
+  "last_modified": "2022-02-15T21:14:33.608499Z",
   "mimetype": null,
   "name": "tp2",
   "path": "3_algorithm_analysis/1_complexity/tp2",
