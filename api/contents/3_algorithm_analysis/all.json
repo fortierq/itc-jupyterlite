@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-15T21:06:45.441925Z",
+      "created": "2022-02-15T21:10:14.071468Z",
       "format": null,
-      "last_modified": "2022-02-15T21:06:45.441925Z",
+      "last_modified": "2022-02-15T21:10:14.071468Z",
       "mimetype": null,
       "name": "1_complexity",
       "path": "3_algorithm_analysis/1_complexity",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-15T21:06:45.441925Z",
+  "created": "2022-02-15T21:10:14.067467Z",
   "format": "json",
-  "last_modified": "2022-02-15T21:06:45.441925Z",
+  "last_modified": "2022-02-15T21:10:14.067467Z",
   "mimetype": null,
   "name": "3_algorithm_analysis",
   "path": "3_algorithm_analysis",
