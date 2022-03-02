@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-02T16:52:07.456712Z",
+      "created": "2022-03-02T17:49:23.857301Z",
       "format": null,
-      "last_modified": "2022-03-02T16:52:07.456712Z",
+      "last_modified": "2022-03-02T17:49:23.857301Z",
+      "mimetype": null,
+      "name": "2_proof",
+      "path": "3_algorithm_analysis/2_proof",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-02T17:49:23.857301Z",
+      "format": null,
+      "last_modified": "2022-03-02T17:49:23.857301Z",
       "mimetype": null,
       "name": "1_complexity",
       "path": "3_algorithm_analysis/1_complexity",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-02T16:52:07.456712Z",
+  "created": "2022-03-02T17:49:23.857301Z",
   "format": "json",
-  "last_modified": "2022-03-02T16:52:07.456712Z",
+  "last_modified": "2022-03-02T17:49:23.857301Z",
   "mimetype": null,
   "name": "3_algorithm_analysis",
   "path": "3_algorithm_analysis",

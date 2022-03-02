@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-02T16:52:07.420712Z",
+      "created": "2022-03-02T17:49:23.825302Z",
       "format": null,
-      "last_modified": "2022-03-02T16:52:07.420712Z",
+      "last_modified": "2022-03-02T17:49:23.825302Z",
       "mimetype": null,
       "name": "1_Python",
       "path": "1_Python",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-02T16:52:07.456712Z",
+      "created": "2022-03-02T17:49:23.861301Z",
       "format": null,
-      "last_modified": "2022-03-02T16:52:07.456712Z",
+      "last_modified": "2022-03-02T17:49:23.861301Z",
       "mimetype": null,
       "name": "4_representation",
       "path": "4_representation",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-02T16:52:07.456712Z",
+      "created": "2022-03-02T17:49:23.857301Z",
       "format": null,
-      "last_modified": "2022-03-02T16:52:07.456712Z",
+      "last_modified": "2022-03-02T17:49:23.857301Z",
       "mimetype": null,
       "name": "3_algorithm_analysis",
       "path": "3_algorithm_analysis",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-02T16:52:07.456712Z",
+      "created": "2022-03-02T17:49:23.857301Z",
       "format": null,
-      "last_modified": "2022-03-02T16:52:07.456712Z",
+      "last_modified": "2022-03-02T17:49:23.857301Z",
       "mimetype": null,
       "name": "2_tp_semestre1",
       "path": "2_tp_semestre1",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-02T16:52:07.400712Z",
+      "created": "2022-03-02T17:49:23.813302Z",
       "format": null,
-      "last_modified": "2022-03-02T16:52:07.400712Z",
+      "last_modified": "2022-03-02T17:49:23.813302Z",
       "mimetype": null,
       "name": "0_intro",
       "path": "0_intro",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-02T16:52:07.456712Z",
+  "created": "2022-03-02T17:49:23.861301Z",
   "format": "json",
-  "last_modified": "2022-03-02T16:52:07.456712Z",
+  "last_modified": "2022-03-02T17:49:23.861301Z",
   "mimetype": null,
   "name": "",
   "path": "",

@@ -6,9 +6,9 @@
       "format": null,
       "last_modified": "2022-03-02T17:49:03.701544Z",
       "mimetype": "application/pdf",
-      "name": "tp_complexite.pdf",
-      "path": "3_algorithm_analysis/1_complexity/tp/tp_complexite.pdf",
-      "size": 84688,
+      "name": "proof.pdf",
+      "path": "3_algorithm_analysis/2_proof/slides/proof.pdf",
+      "size": 107953,
       "type": "file",
       "writable": true
     }
@@ -17,8 +17,8 @@
   "format": "json",
   "last_modified": "2022-03-02T17:49:23.857301Z",
   "mimetype": null,
-  "name": "tp",
-  "path": "3_algorithm_analysis/1_complexity/tp",
+  "name": "slides",
+  "path": "3_algorithm_analysis/2_proof/slides",
   "size": null,
   "type": "directory",
   "writable": true

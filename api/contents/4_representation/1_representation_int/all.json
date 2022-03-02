@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-02T16:52:07.460712Z",
+      "created": "2022-03-02T17:49:23.861301Z",
       "format": null,
-      "last_modified": "2022-03-02T16:51:45.560710Z",
+      "last_modified": "2022-03-02T17:49:23.861301Z",
+      "mimetype": null,
+      "name": "td",
+      "path": "4_representation/1_representation_int/td",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-02T17:49:23.861301Z",
+      "format": null,
+      "last_modified": "2022-03-02T17:49:03.705544Z",
       "mimetype": "application/pdf",
       "name": "representation_entiers.pdf",
       "path": "4_representation/1_representation_int/representation_entiers.pdf",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-02T16:52:07.456712Z",
+  "created": "2022-03-02T17:49:23.861301Z",
   "format": "json",
-  "last_modified": "2022-03-02T16:52:07.456712Z",
+  "last_modified": "2022-03-02T17:49:23.861301Z",
   "mimetype": null,
   "name": "1_representation_int",
   "path": "4_representation/1_representation_int",
