@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-02T18:01:53.402158Z",
+      "created": "2022-03-05T19:13:48.086235Z",
       "format": null,
-      "last_modified": "2022-03-02T18:00:50.893425Z",
+      "last_modified": "2022-03-05T19:13:25.706159Z",
       "mimetype": "application/pdf",
       "name": "proof.pdf",
       "path": "3_algorithm_analysis/2_proof/slides/proof.pdf",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-02T18:01:53.402158Z",
+  "created": "2022-03-05T19:13:48.086235Z",
   "format": "json",
-  "last_modified": "2022-03-02T18:01:53.402158Z",
+  "last_modified": "2022-03-05T19:13:48.086235Z",
   "mimetype": null,
   "name": "slides",
   "path": "3_algorithm_analysis/2_proof/slides",
