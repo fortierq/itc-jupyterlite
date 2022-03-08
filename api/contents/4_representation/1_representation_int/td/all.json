@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-08T21:11:00.345324Z",
+      "created": "2022-03-08T21:19:35.260722Z",
       "format": null,
-      "last_modified": "2022-03-08T21:10:32.025143Z",
+      "last_modified": "2022-03-08T21:19:11.327791Z",
       "mimetype": "application/pdf",
       "name": "TP_binaire.pdf",
       "path": "4_representation/1_representation_int/td/TP_binaire.pdf",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-08T21:11:00.345324Z",
+  "created": "2022-03-08T21:19:35.260722Z",
   "format": "json",
-  "last_modified": "2022-03-08T21:11:00.345324Z",
+  "last_modified": "2022-03-08T21:19:35.260722Z",
   "mimetype": null,
   "name": "td",
   "path": "4_representation/1_representation_int/td",
