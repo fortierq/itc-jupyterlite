@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-20T16:28:43.807249Z",
+      "created": "2022-03-20T16:59:53.260027Z",
       "format": null,
-      "last_modified": "2022-03-20T16:28:43.807249Z",
+      "last_modified": "2022-03-20T16:59:53.260027Z",
       "mimetype": null,
       "name": "tp",
       "path": "4_representation/2_representation_float/tp",
@@ -14,20 +14,20 @@
     },
     {
       "content": null,
-      "created": "2022-03-20T16:28:43.807249Z",
+      "created": "2022-03-20T16:59:53.256027Z",
       "format": null,
-      "last_modified": "2022-03-20T16:28:19.502587Z",
+      "last_modified": "2022-03-20T16:59:32.759029Z",
       "mimetype": "application/pdf",
       "name": "representation_flottants.pdf",
       "path": "4_representation/2_representation_float/representation_flottants.pdf",
-      "size": 848613,
+      "size": 848393,
       "type": "file",
       "writable": true
     }
   ],
-  "created": "2022-03-20T16:28:43.807249Z",
+  "created": "2022-03-20T16:59:53.260027Z",
   "format": "json",
-  "last_modified": "2022-03-20T16:28:43.807249Z",
+  "last_modified": "2022-03-20T16:59:53.260027Z",
   "mimetype": null,
   "name": "2_representation_float",
   "path": "4_representation/2_representation_float",

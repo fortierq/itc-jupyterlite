@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-20T16:28:43.767248Z",
+      "created": "2022-03-20T16:59:53.220027Z",
       "format": null,
-      "last_modified": "2022-03-20T16:28:43.767248Z",
+      "last_modified": "2022-03-20T16:59:53.220027Z",
       "mimetype": null,
       "name": "1_Python",
       "path": "1_Python",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-20T16:28:43.807249Z",
+      "created": "2022-03-20T16:59:53.256027Z",
       "format": null,
-      "last_modified": "2022-03-20T16:28:43.807249Z",
+      "last_modified": "2022-03-20T16:59:53.256027Z",
       "mimetype": null,
       "name": "4_representation",
       "path": "4_representation",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-20T16:28:43.803249Z",
+      "created": "2022-03-20T16:59:53.252027Z",
       "format": null,
-      "last_modified": "2022-03-20T16:28:43.803249Z",
+      "last_modified": "2022-03-20T16:59:53.252027Z",
       "mimetype": null,
       "name": "3_algorithm_analysis",
       "path": "3_algorithm_analysis",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-20T16:28:43.799249Z",
+      "created": "2022-03-20T16:59:53.252027Z",
       "format": null,
-      "last_modified": "2022-03-20T16:28:43.799249Z",
+      "last_modified": "2022-03-20T16:59:53.252027Z",
       "mimetype": null,
       "name": "2_tp_semestre1",
       "path": "2_tp_semestre1",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-20T16:28:43.751247Z",
+      "created": "2022-03-20T16:59:53.204026Z",
       "format": null,
-      "last_modified": "2022-03-20T16:28:43.751247Z",
+      "last_modified": "2022-03-20T16:59:53.204026Z",
       "mimetype": null,
       "name": "0_intro",
       "path": "0_intro",
@@ -62,9 +62,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-20T16:28:43.811249Z",
+      "created": "2022-03-20T16:59:53.260027Z",
       "format": null,
-      "last_modified": "2022-03-20T16:28:19.502587Z",
+      "last_modified": "2022-03-20T16:59:32.759029Z",
       "mimetype": null,
       "name": "tp_parcoursup.ipynb",
       "path": "tp_parcoursup.ipynb",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-20T16:28:43.811249Z",
+  "created": "2022-03-20T16:59:53.260027Z",
   "format": "json",
-  "last_modified": "2022-03-20T16:28:43.811249Z",
+  "last_modified": "2022-03-20T16:59:53.260027Z",
   "mimetype": null,
   "name": "",
   "path": "",
