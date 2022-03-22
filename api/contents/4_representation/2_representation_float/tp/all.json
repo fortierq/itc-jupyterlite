@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-20T16:59:53.260027Z",
+      "created": "2022-03-22T17:44:25.026047Z",
       "format": null,
-      "last_modified": "2022-03-20T16:59:32.759029Z",
+      "last_modified": "2022-03-22T17:44:01.989890Z",
       "mimetype": "application/pdf",
       "name": "tp_flottant.pdf",
       "path": "4_representation/2_representation_float/tp/tp_flottant.pdf",
-      "size": 66229,
+      "size": 65940,
       "type": "file",
       "writable": true
     }
   ],
-  "created": "2022-03-20T16:59:53.260027Z",
+  "created": "2022-03-22T17:44:25.026047Z",
   "format": "json",
-  "last_modified": "2022-03-20T16:59:53.260027Z",
+  "last_modified": "2022-03-22T17:44:25.026047Z",
   "mimetype": null,
   "name": "tp",
   "path": "4_representation/2_representation_float/tp",
