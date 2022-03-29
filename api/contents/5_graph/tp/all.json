@@ -6,20 +6,8 @@
       "format": null,
       "last_modified": "2022-03-29T19:04:41.889407Z",
       "mimetype": null,
-      "name": "1_definition",
-      "path": "5_graph/1_definition",
-      "size": null,
-      "type": "directory",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-03-29T19:04:41.889407Z",
-      "format": null,
-      "last_modified": "2022-03-29T19:04:41.889407Z",
-      "mimetype": null,
-      "name": "tp",
-      "path": "5_graph/tp",
+      "name": "tp1",
+      "path": "5_graph/tp/tp1",
       "size": null,
       "type": "directory",
       "writable": true
@@ -29,8 +17,8 @@
   "format": "json",
   "last_modified": "2022-03-29T19:04:41.889407Z",
   "mimetype": null,
-  "name": "5_graph",
-  "path": "5_graph",
+  "name": "tp",
+  "path": "5_graph/tp",
   "size": null,
   "type": "directory",
   "writable": true
