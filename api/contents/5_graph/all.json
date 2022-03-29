@@ -2,32 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-29T16:20:20.241786Z",
+      "created": "2022-03-29T19:01:48.534923Z",
       "format": null,
-      "last_modified": "2022-03-29T16:20:20.241786Z",
+      "last_modified": "2022-03-29T19:01:48.534923Z",
       "mimetype": null,
       "name": "1_definition",
       "path": "5_graph/1_definition",
       "size": null,
       "type": "directory",
       "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-03-29T16:20:20.241786Z",
-      "format": null,
-      "last_modified": "2022-03-29T16:20:20.241786Z",
-      "mimetype": null,
-      "name": "tp",
-      "path": "5_graph/tp",
-      "size": null,
-      "type": "directory",
-      "writable": true
     }
   ],
-  "created": "2022-03-29T16:20:20.241786Z",
+  "created": "2022-03-29T19:01:48.534923Z",
   "format": "json",
-  "last_modified": "2022-03-29T16:20:20.241786Z",
+  "last_modified": "2022-03-29T19:01:48.534923Z",
   "mimetype": null,
   "name": "5_graph",
   "path": "5_graph",
