@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-30T08:34:08.480827Z",
+      "created": "2022-04-04T16:21:30.580799Z",
       "format": null,
-      "last_modified": "2022-03-30T08:33:38.684646Z",
+      "last_modified": "2022-04-04T16:20:57.512915Z",
       "mimetype": "application/pdf",
       "name": "1_graph.pdf",
       "path": "5_graph/1_definition/1_graph.pdf",
-      "size": 231003,
+      "size": 214526,
       "type": "file",
       "writable": true
     }
   ],
-  "created": "2022-03-30T08:34:08.480827Z",
+  "created": "2022-04-04T16:21:30.580799Z",
   "format": "json",
-  "last_modified": "2022-03-30T08:34:08.480827Z",
+  "last_modified": "2022-04-04T16:21:30.580799Z",
   "mimetype": null,
   "name": "1_definition",
   "path": "5_graph/1_definition",

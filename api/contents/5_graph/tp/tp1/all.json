@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-30T08:34:08.480827Z",
+      "created": "2022-04-04T16:21:30.580799Z",
       "format": null,
-      "last_modified": "2022-03-30T08:33:38.684646Z",
+      "last_modified": "2022-04-04T16:20:57.516915Z",
       "mimetype": null,
       "name": "tp_graph1.ipynb",
       "path": "5_graph/tp/tp1/tp_graph1.ipynb",
-      "size": 368730,
+      "size": 369042,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-03-30T08:34:08.480827Z",
+  "created": "2022-04-04T16:21:30.580799Z",
   "format": "json",
-  "last_modified": "2022-03-30T08:34:08.480827Z",
+  "last_modified": "2022-04-04T16:21:30.580799Z",
   "mimetype": null,
   "name": "tp1",
   "path": "5_graph/tp/tp1",
