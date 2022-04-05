@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-05T16:05:49.397524Z",
+      "created": "2022-04-05T16:05:11.594507Z",
       "format": null,
-      "last_modified": "2022-04-05T16:05:31.133762Z",
+      "last_modified": "2022-04-05T16:04:47.854429Z",
       "mimetype": "application/pdf",
       "name": "tp_flottant.pdf",
       "path": "4_representation/2_representation_float/tp/tp_flottant.pdf",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-05T16:05:49.397524Z",
+  "created": "2022-04-05T16:05:11.594507Z",
   "format": "json",
-  "last_modified": "2022-04-05T16:05:49.397524Z",
+  "last_modified": "2022-04-05T16:05:11.594507Z",
   "mimetype": null,
   "name": "tp",
   "path": "4_representation/2_representation_float/tp",
