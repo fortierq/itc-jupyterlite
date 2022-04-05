@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-05T17:02:32.916101Z",
+      "created": "2022-04-05T17:15:52.238872Z",
       "format": null,
-      "last_modified": "2022-04-05T17:02:16.051858Z",
+      "last_modified": "2022-04-05T17:15:35.066614Z",
       "mimetype": null,
       "name": "tp_graph1.ipynb",
       "path": "5_graph/tp/tp1/tp_graph1.ipynb",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-05T17:02:32.916101Z",
+  "created": "2022-04-05T17:15:52.238872Z",
   "format": "json",
-  "last_modified": "2022-04-05T17:02:32.916101Z",
+  "last_modified": "2022-04-05T17:15:52.238872Z",
   "mimetype": null,
   "name": "tp1",
   "path": "5_graph/tp/tp1",
