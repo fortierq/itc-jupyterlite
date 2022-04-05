@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-05T20:19:32.600528Z",
+      "created": "2022-04-05T20:20:20.780501Z",
       "format": null,
-      "last_modified": "2022-04-05T20:19:32.600528Z",
+      "last_modified": "2022-04-05T20:20:20.780501Z",
       "mimetype": null,
       "name": "img",
       "path": "1_Python/tp/premiers/img",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-05T20:19:32.600528Z",
+      "created": "2022-04-05T20:20:20.780501Z",
       "format": null,
-      "last_modified": "2022-04-05T20:19:03.252128Z",
+      "last_modified": "2022-04-05T20:19:55.327764Z",
       "mimetype": "application/pdf",
       "name": "tp_premiers.pdf",
       "path": "1_Python/tp/premiers/tp_premiers.pdf",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-05T20:19:32.600528Z",
+  "created": "2022-04-05T20:20:20.780501Z",
   "format": "json",
-  "last_modified": "2022-04-05T20:19:32.600528Z",
+  "last_modified": "2022-04-05T20:20:20.780501Z",
   "mimetype": null,
   "name": "premiers",
   "path": "1_Python/tp/premiers",
