@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-05T18:03:06.450591Z",
+      "created": "2022-04-05T18:09:01.308849Z",
       "format": null,
-      "last_modified": "2022-04-05T18:02:43.574546Z",
+      "last_modified": "2022-04-05T18:08:36.085010Z",
       "mimetype": "image/png",
       "name": "gdir.png",
       "path": "5_graph/tp/tp2/gdir.png",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-05T18:03:06.450591Z",
+      "created": "2022-04-05T18:09:01.308849Z",
       "format": null,
-      "last_modified": "2022-04-05T18:02:43.574546Z",
+      "last_modified": "2022-04-05T18:08:36.085010Z",
       "mimetype": "image/png",
       "name": "g.png",
       "path": "5_graph/tp/tp2/g.png",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-05T18:03:06.450591Z",
+      "created": "2022-04-05T18:09:01.308849Z",
       "format": null,
-      "last_modified": "2022-04-05T18:02:43.574546Z",
+      "last_modified": "2022-04-05T18:08:36.085010Z",
       "mimetype": null,
       "name": "tp_graph2.ipynb",
       "path": "5_graph/tp/tp2/tp_graph2.ipynb",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-05T18:03:06.450591Z",
+  "created": "2022-04-05T18:09:01.308849Z",
   "format": "json",
-  "last_modified": "2022-04-05T18:03:06.450591Z",
+  "last_modified": "2022-04-05T18:09:01.308849Z",
   "mimetype": null,
   "name": "tp2",
   "path": "5_graph/tp/tp2",
